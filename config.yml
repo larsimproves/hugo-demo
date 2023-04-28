@@ -14,9 +14,7 @@ params:
     imageHeight: 60
     buttons:
       - name: Archive
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/"
+        url: "/archive/"
   socialIcons:
     - name: youtube
       url: "https://www.youtube.com/@larsimproves"
