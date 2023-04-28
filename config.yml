@@ -46,3 +46,7 @@ menu:
     name: Archives
     url: /archives/
     weight: 30
+  - identifier: socialIcons:
+    name: youtube
+    url: "https://www.youtube.com/@larsimproves"
+    weight: 40
