@@ -32,20 +32,17 @@ cover:
 
 menu:
   main:
-  - identifier: list
-    name: List
-    url: /list/
-    weight: 10
+
   - identifier: categories
     name: Categories
     url: /categories/
-    weight: 20
+    weight: 10
   - identifier: tags
     name: Tags
     url: /tags/
-    weight: 30
+    weight: 20
   - identifier: archives
     name: Archives
     url: /archives/
-    weight: 40
+    weight: 30
 
