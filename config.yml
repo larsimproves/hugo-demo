@@ -8,10 +8,10 @@ params:
     enabled: true
     title: "<Title>"
     subtitle: "This is subtitle"
-    imageUrl: "https://example.com/image.jpg"
+    image: img/Lars.jpeg
     imageTitle: "<title of image as alt>"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 60
+    imageHeight: 60
     buttons:
       - name: Archive
         url: "/archive"
