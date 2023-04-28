@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: "Hey Friend! &#x1F90F;"
+    title: "Hey Friend! U+1F3FB"
     subtitle: "Welcome to my blog!"
     image: img/lars.jpeg
     imageTitle: "<title of image as alt>"
