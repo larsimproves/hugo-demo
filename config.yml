@@ -19,10 +19,9 @@ params:
           url: "https://github.com/"
 
     socialIcons: # optional
-        - name: "<platform>"
-            url: "<link>"
-        - name: "<platform 2>"
-            url: "<link2>"
+        - name: "youtube"
+            url: "https://www.youtube.com/@larsimproves"
+
 
 cover:
   linkFullImages: true
