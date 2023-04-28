@@ -6,14 +6,14 @@ theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: "<Title>"
-    subtitle: "This is subtitle"
+    title: "Hey Friend! &#x1F44B;"
+    subtitle: "Welcome to my blog!"
     image: img/lars.jpeg
     imageTitle: "<title of image as alt>"
     imageWidth: 60
     imageHeight: 60
     buttons:
-      - name: Archive
+      - name: Archives
         url: "/archives/"
   socialIcons:
     - name: youtube
