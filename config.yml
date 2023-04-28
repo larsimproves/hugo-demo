@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://heartfelt-tulumba-1034a1.netlify.app/"
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
