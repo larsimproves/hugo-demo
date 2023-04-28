@@ -6,8 +6,8 @@ cover:
     image: img/headphones.jpg
     alt: "this is a post image"
     caption: "this is the caption"
-tags: ["html", "css"]
-categories: ["tech"]
+tags: ["2023"]
+categories: ["personal development"]
 ---
 
 # this is a heading one
