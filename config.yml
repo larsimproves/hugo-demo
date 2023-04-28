@@ -6,7 +6,7 @@ theme: PaperMod
 params:
 
   homeInfoParams:
-    Title: "Hello Stranger"
+    Title: "Hey friend!"
     Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
   socialIcons: 
       - name: youtube
