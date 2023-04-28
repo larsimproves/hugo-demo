@@ -17,6 +17,7 @@ params:
         url: "/archives/"
   socialIcons:
     - name: youtube
+      icon: "<i class='fab fa-youtube'></i>"
       url: "https://www.youtube.com/@larsimproves"
 
 
