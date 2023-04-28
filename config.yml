@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: "Hey Friend! &#x1F44B;"
+    title: "Hey Friend &#x1F44B;"
     subtitle: "Welcome to my blog!"
     image: img/lars.jpeg
     imageTitle: "<title of image as alt>"
@@ -45,4 +45,3 @@ menu:
     url: /archives/
     weight: 30
 
-    
