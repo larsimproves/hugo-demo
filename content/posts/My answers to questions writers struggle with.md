@@ -1,6 +1,6 @@
 ---
 title: "My answers to questions writers struggle with"
-date: 2023-04-30T11:30:03+00:00
+date: 2023-04-28T11:30:03+00:00
 url: writers-questions
 
 tags: ["blog"]
@@ -16,7 +16,7 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
