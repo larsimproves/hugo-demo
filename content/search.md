@@ -1,15 +1,14 @@
 ---
-title: "Search" # in any language you want
-layout: "search" # is necessary
-# url: "/archive"
-# description: "Description for Search"
+title: "Search" 
+layout: "search" 
+
 summary: "search"
 placeholder: "Search..."
 
 params:
     fuseOpts:
         isCaseSensitive: false
-        shouldSort: true
+        shouldSort: false
         location: 0
         distance: 1000
         threshold: 0.4
