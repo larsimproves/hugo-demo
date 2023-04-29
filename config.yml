@@ -10,8 +10,8 @@ params:
     subtitle: "Welcome to my blog!"
     imageUrl: "img/lars.jpeg"     
     imageTitle: "<title of image as alt>"
-    imageWidth: 60
-    imageHeight: 60
+    imageWidth: 100
+    imageHeight: 100
     buttons:
       - name: About
         url: "/about/"
