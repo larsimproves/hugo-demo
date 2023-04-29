@@ -150,7 +150,7 @@ You can host Ghost yourself as it is open source. However, this is trickier and 
 
 **$9 per month** + a few euros for a personalized domain name.
 
-### **Beginners who want to turn their blog into a side-hustle**
+### Beginners who want to turn their blog into a side-hustle
 
 [**WordPress**](https://wordpress.org/) - This provider is the GOAT among websites. WordPress itself is completely free, you just need to buy your hosting (about **€30,- a year**). You can then download all kinds of free themes. And on top of that, you can optimize all your articles for Google by using the ['Yoast' plug-in](https://yoast.com/wordpress/plugins/seo/). For example, look at a few [tutorials on Youtube](https://youtu.be/F3Bi1jIJ-h8).
 
