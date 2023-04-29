@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: "Hey Friend &#x1F44B;"
+    title: "I'm Lars &#x1F44B;"
     subtitle: "Welcome to my blog!"
     image: img/lars.jpeg
     imageTitle: "<title of image as alt>"
@@ -57,4 +57,3 @@ outputs:
         - RSS
         - JSON # is necessary
 
-        
