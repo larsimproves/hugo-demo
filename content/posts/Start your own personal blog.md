@@ -2,7 +2,7 @@
 title: "Start your own personal blog"
 date: 2023-04-29T11:30:03+00:00
 
-tags: ["blog"]
+
 categories: ["content creation"]
 author: "Lars ten Dolle"
 

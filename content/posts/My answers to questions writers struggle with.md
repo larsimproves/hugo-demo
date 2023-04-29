@@ -3,7 +3,7 @@ title: "My answers to questions writers struggle with"
 date: 2023-04-28T11:30:03+00:00
 url: writers-questions
 
-tags: ["blog"]
+
 categories: ["content creation"]
 author: "Lars ten Dolle"
 
@@ -310,7 +310,7 @@ What went wrong and why? Try to answer this for yourself. Now you probably know 
 
 Learn from your mistakes, don't give up, and you will eventually succeed! (I believe in you!)
 
-## **Question #31: Could you share some cool resources for beginning digital writers?**
+## Question #31: Could you share some cool resources for beginning digital writers?
 
 If you are still unsure if online writing is really for you, I would recommend checking out as much free content as possible.
 
