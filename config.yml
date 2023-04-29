@@ -18,11 +18,11 @@ params:
 
 
 cover:
-  linkFullImages: true
+  linkFullImages: false
   
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
 
   ShowShareButtons: true
 
