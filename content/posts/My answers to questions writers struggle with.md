@@ -4,9 +4,8 @@ date: 2023-04-28T11:30:03+00:00
 url: writers-questions
 
 
-categories: ["content creation"]
+categories: ["writing"]
 
-ShowDate: false
 showToc: true
 TocOpen: false
 draft: false
