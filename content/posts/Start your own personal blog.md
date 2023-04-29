@@ -4,8 +4,8 @@ date: 2023-04-29T11:30:03+00:00
 
 
 categories: ["content creation"]
-author: "Lars ten Dolle"
 
+ShowDate: false
 showToc: true
 TocOpen: true
 draft: false

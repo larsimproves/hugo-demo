@@ -5,8 +5,8 @@ url: writers-questions
 
 
 categories: ["content creation"]
-author: "Lars ten Dolle"
 
+ShowDate: false
 showToc: true
 TocOpen: false
 draft: false
