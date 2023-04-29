@@ -217,7 +217,6 @@ Do you have a working internet connection and a laptop/desktop? Then you could a
 
 - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
 - [The strategy successful creators use to build trust with customers](https://ghost.org/resources/how-to-build-trust-with-customers/)
-- https://skerritt.blog/blogging/
 
 # These books are great for beginning bloggers
 
