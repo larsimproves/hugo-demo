@@ -21,7 +21,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
-UseHugoToc: false
+UseHugoToc: true
 ---
 
 In this extensive post, I will explain exactly why you should start a personal blog today! I read this [full article by Guzey](https://guzey.com/personal/why-have-a-blog/) and it seemed like a great idea to add a few experiences of my own!
