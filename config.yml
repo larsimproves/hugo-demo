@@ -15,10 +15,7 @@ params:
     buttons:
       - name: About
         url: "/about/"
-      - name: Archives
-        url: "/archives/"
-      - name: Tags
-        url: "/tags/"
+        
 
 
 
@@ -47,8 +44,8 @@ menu:
     url: /tags/
     weight: 20
   - identifier: archives
-    name: Archives
-    url: /archives/
+    name: Blog
+    url: /blog/
     weight: 30
   - identifier: search
     name: Search
