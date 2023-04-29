@@ -7,7 +7,7 @@ categories: ["content creation"]
 author: "Lars ten Dolle"
 
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: false
@@ -34,7 +34,7 @@ So you want to start a blog? What a great idea! Chances are you've already start
 
 # Why am I the right person to help you?
 
-Before we start this gigantic tour through the magical blogging world, I will first introduce myself. My name is Lars (21 years old) and I have been writing articles for about 2 years now. I have also started several websites and I even have a [newsletter](https://larstendolle.ghost.io/newsletter/) myself. I've learned a lot about terms like SEO, backlinks, and keywords. (Don't worry, we'll keep it simple today!)
+Before we start this gigantic tour through the magical blogging world, I will first introduce myself. My name is Lars (22 years old) and I have been writing articles for about 2 years now. I have also made several websites myself. I've learned a lot about terms like SEO, backlinks, and keywords. (Don't worry, we'll keep it simple today!)
 
 Enough about me, let's start this journey!
 
@@ -57,7 +57,7 @@ Or collect the 10 best movies you've ever seen. It can be anything, as long as y
 
 # Nobody wants to read my personal blog
 
-In this blog post, Guzey tells that in the first 2 years there were not any visitors to his site. It can happen that your website doesn't show up on Google! Fortunately, as you start writing more, your blog will become more and more findable (I'll share some good tips on that later in this post). So don't let the low number of visitors deter you from starting your blog!
+In his blog post, Guzey tells that in the first 2 years there were not any visitors to his site. It can happen that your website doesn't show up on Google! Fortunately, as you start writing more, your blog will become more and more findable (I'll share some good tips on that later in this post). So don't let the low number of visitors deter you from starting your blog!
 
 If you never post anything you know for sure that no one is going to read your stuff.
 
@@ -106,12 +106,12 @@ You may find that the post you wrote yesterday is no longer relevant tomorrow. M
 Yes. Starting is always difficult. This is true for anything. But the more often you write, the easier it will be in the end. And even then:
 
 - You'll still have your doubts about your articles.
-- You'll still have writers' block from time to time
+- You'll still have writers' block from time to time.
 - You'll have trouble coming up with catchy titles. (I speak from experience)
 
 Don't put a lot of pressure on yourself, especially in the beginning. For example, only write one post a month. That way it is a lot easier to consistently write a piece of content. If you find out you really enjoy doing this, then you can even write a blog post every week.
 
-Or, you can send out a newsletter, for example! That way, the posts don't stay up forever and you can still inspire people with the ideas you share. By the way, did you know that I have my own [newsletter](https://larstendolle.ghost.io/newsletter/)? In these weekly emails, I share tips and tricks about [self-help](www.copybylars.com/tag/self-help/), [digital writing](www.copybylars.com/tag/digital-writing/), and other cool topics that keep me awake at night!
+Or, you can send out a newsletter, for example! That way, the posts don't stay up forever and you can still inspire people with the ideas you share.
 
 # How should I start a blog? Here's how I would go about it!
 
@@ -121,33 +121,33 @@ I've laid out my simplified step-by-step plan for starting a personal blog. Belo
 2. Choose a site to publish your blog on.
 3. Make sure you have posts that people like to read.
 4. Make your posts Google-ready!
-5. Think about the profitability of your blog.
+5. Think about the profitability of your blog. (or don't)
 
 ## 1. Check out the pros
 
 The best tip I can give you to get off to a flying start as a blogger is to look up your favorite bloggers. What topics do you like to read about? Or do you have a few sites that you would immediately recommend to others?
 
-Try to think of how your blog could be included in this list. **How can you incorporate the style of these bloggers into your articles?**
+Try to think of how your blog could be included in this list. How can you incorporate the style of these bloggers into your articles?
 
-After all, your favorite bloggers are very good at what they do. And they probably have many years of experience as well. Look at what elements you like in these bloggers, but also think about how you would improve these articles. You can then take advantage of this by creating even better posts! For example, take a look at Tim Ferris's blog:
+After all, your favorite bloggers are very good at what they do. And they probably have many years of experience as well. Look at what elements you like in these bloggers, but also think about how you would improve these articles. You can then take advantage of this by creating even better posts!
 
 ## 2. What is the best site to start a blog?
 
-There are all kinds of providers nowadays that you can use to put together a great site. I created my website with 'Ghost'. But there are many more platforms on which you can share your content. I have listed them below:
+There are all kinds of providers nowadays that you can use to put together a great site. I created my website with 'Hugo'. But there are many more platforms on which you can share your content. I have listed them below:
 
 ### Beginners
 
-Twitter/LinkedIn/Medium - As a beginning blogger, it might be a waste to invest money in your passion right away. Therefore, it is wise to post a few pieces on social media first. In my opinion, Twitter and LinkedIn lend themselves perfectly to this. The big advantage? There are already many people active on these platforms, who love to read about all kinds of subjects. In addition, it is easier to build a following this way.
+**Twitter/LinkedIn/Medium** - As a beginning blogger, it might be a waste to invest money in your passion right away. Therefore, it is wise to post a few pieces on social media first. In my opinion, Twitter and LinkedIn lend themselves perfectly to this. The big advantage? There are already many people active on these platforms, who love to read about all kinds of subjects. In addition, it is easier to build a following this way. However, sharing your thoughts is a liberating thought either way. So even if you just want to start blogging on a personal site without attracting a lot of visitors, it's still a great idea!
 
 ### Beginners with a passion
 
-[**Squarespace**](https://www.squarespace.com/) - Do you think it's important that your site looks perfect? And do you want to start selling things on your website in the long run? If so, you need to visit Squarespace. Many famous YouTubers use this site because the themes look great and the website builder is very easy to use.
+[**Squarespace**](https://www.squarespace.com/) - Do you think it's important that your site looks perfect? And do you want to start selling things on your website in the long run? If so, you need to visit Squarespace. Many famous YouTubers use this site because the themes look great and the website builder is very easy to use. At the same time, this could also be a disadvantage. You don't have too much flexibility in terms of designing your own website at SquareSpace. But, if you're starting out, this is a perfect platform!
 
 **€11,- per month**
 
-[**Ghost**](https://ghost.org/) - The post you are reading now was published via Ghost. Why? First of all, I am a big fan of [the beautiful themes](https://ghost.org/themes/?tag=Blog&category=free)you can choose from. But besides that, it is super easy to send newsletters via this provider. Also, editing articles is a real pleasure on this site. On top of that, your site will be super fast if you publish via Ghost.
+[**Ghost**](https://ghost.org/) - The post you are reading now was originally published via Ghost. Why? First of all, I am a big fan of [the beautiful themes](https://ghost.org/themes/?tag=Blog&category=free)you can choose from. But besides that, it is super easy to send newsletters via this provider. Also, editing articles is a real pleasure on this site. On top of that, your site will be super fast if you publish via Ghost.
 
-You can host Ghost yourself as it is open source. However, this is trickier and not easy for beginners. (That's why I won't go into this any further in this post. Google is your best friend in this case).
+You can host Ghost yourself as it is open source. However, this is trickier and not easy for beginners. (That's why I won't go into this any further in this post. Google is your best friend in this case). Right now, I am using Hugo(https://themes.gohugo.io/themes/hugo-papermod/). Also open source, but this is a static site. It's a bit harder to set up, but well worth it in my opinion. This site is blazingly fast!
 
 **$9 per month** + a few euros for a personalized domain name.
 
@@ -163,6 +163,8 @@ Think about the purpose of your post before you start writing. Why would someone
 
 If you keep this in mind and adjust your blog posts accordingly, it will be a lot more interesting for a potential visitor to read your post.
 
+At the end of the day, writing itself can be a cool hobby! So, don't worry too much about all those metrics. Have a bit of fun along the way. The rest will follow eventually. 
+
 ## 4. This is how you can capitalize on Google's algorithm (SEO).
 
 There's a way you can optimize your articles for Google. That may sound very vague. I'll try to explain it to you as simple as possible:
@@ -175,7 +177,7 @@ It's also important that your site is very fast and that many other sites link t
 
 # How much money could I make with a blog?
 
-It is very difficult to give a concrete answer to this. Compare it to YouTubers; the more views they get on a video, the more income they get from ads. Do you post an article once a week that gets read about 1,000 times? Then unfortunately you're not going to be able to make a living from your blog. Unless, for example, you make use of sponsorship deals.
+It is difficult to give a concrete answer to this. Compare it to YouTubers; the more views they get on a video, the more income they get from ads. Do you post an article once a week that gets read about 1,000 times? Then unfortunately you're not going to be able to make a living from your blog. Unless, for example, you make use of sponsorship deals.
 
 You could, for example, start a blog that is focused on one specific target group. That way it may already be easier to attract sponsors for your blog. You then write an article on behalf of your sponsor/client. This way you can earn a good amount of money from your articles.
 
@@ -231,4 +233,4 @@ Do you have a working internet connection and a laptop/desktop? Then you could a
 - [The 22 Laws of Digital Writing](https://amzn.to/3CFpTPO) (Dickie Bush)
 - [The Art and Business of Online Writing](https://amzn.to/3QYZlNw) (Nicolas Cole)
 
-I hope these tips have helped you. Did this post inspire you to start blogging yourself? If so, please send me an [email](mailto:hello@copybylars.com)!
+I hope these tips have helped you. Did this post inspire you to start blogging yourself? If so, please send me an [email](mailto:hi@larstendolle.com)!
