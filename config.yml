@@ -28,6 +28,8 @@ cover:
 
   ShowPostNavLinks: true
 
+  ShowDate: false
+
 menu:
   main:
 
