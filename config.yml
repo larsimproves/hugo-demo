@@ -13,8 +13,12 @@ params:
     imageWidth: 60
     imageHeight: 60
     buttons:
+      - name: About
+        url: "/about/"
       - name: Archives
         url: "/archives/"
+      - name: Tags
+        url: "/tags/"
 
 
 
