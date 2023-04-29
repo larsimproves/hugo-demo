@@ -8,10 +8,6 @@ params:
     enabled: true
     title: "I'm Lars &#x1F44B;"
     subtitle: "Welcome to my blog!"
-    imageUrl: "img/lars.jpeg"     
-    imageTitle: "<title of image as alt>"
-    imageWidth: 100
-    imageHeight: 100
     buttons:
       - name: About
         url: "/about/"
