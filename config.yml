@@ -44,7 +44,7 @@ menu:
     url: /tags/
     weight: 20
   - identifier: archives
-    name: Blog
+    name: Archives
     url: /blog/
     weight: 30
   - identifier: search
