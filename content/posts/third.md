@@ -3,6 +3,7 @@ title: "Start your own personal blog"
 date: 2023-04-29T11:30:03+00:00
 
 tags: ["blog"]
+categories: ["content creation"]
 author: "Lars ten Dolle"
 
 showToc: true
@@ -10,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description:
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -20,7 +21,7 @@ searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
