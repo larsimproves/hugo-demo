@@ -35,7 +35,7 @@ I bet **your feelings of insecurity as a writer will disappear** completely afte
 
 A working wifi-connection, a laptop (preferably a fast one), and the internal willingness to succeed!
 
-Make sure to [start your own personal blog]: https://www.larstendolle.com/posts/start-your-own-personal-blog/ and just go for it. By doing this you'll eventually become a better writer. Besides that, you create a talent for clearly writing down your ideas.
+Make sure to [start your own personal blog](https://www.larstendolle.com/posts/start-your-own-personal-blog/) and just go for it. By doing this you'll eventually become a better writer. Besides that, you create a talent for clearly writing down your ideas.
 
 Don't stress too much about a 'perfect start', the best day to start was yesterday!
 
