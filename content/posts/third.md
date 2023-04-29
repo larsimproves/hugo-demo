@@ -9,9 +9,7 @@ author: "Lars ten Dolle"
 showToc: true
 TocOpen: true
 draft: false
-hidemeta: false
-comments: false
-description:
+
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -23,7 +21,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+UseHugoToc: false
 ---
 
 In this extensive post, I will explain exactly why you should start a personal blog today! I read this [full article by Guzey](https://guzey.com/personal/why-have-a-blog/) and it seemed like a great idea to add a few experiences of my own!
