@@ -4,7 +4,7 @@ url: "/about/"
 
 disableShare: true
 
-hideHeader: true
+ShowHeader: false
 
 ---
 
