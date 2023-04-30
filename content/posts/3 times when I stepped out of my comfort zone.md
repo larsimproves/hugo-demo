@@ -7,7 +7,7 @@ url: comfort-zone
 categories: ["personal"]
 
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 
 canonicalURL: "https://canonical.url/to/page"
