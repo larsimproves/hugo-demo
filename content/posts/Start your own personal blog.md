@@ -6,7 +6,7 @@ date: 2022-08-19T11:30:03+00:00
 categories: ["writing"]
 
 showToc: true
-TocOpen: true
+TocOpen: false
 draft: false
 
 canonicalURL: "https://canonical.url/to/page"
