@@ -11,11 +11,6 @@ TocOpen: false
 draft: false
 
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true 
-ShowShareButtons: true
-disableHLJS: false
-hideSummary: false
-searchHidden: false
 UseHugoToc: true
 ---
 
