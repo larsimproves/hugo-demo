@@ -12,8 +12,7 @@ params:
       - name: About
         url: "/about/"
   
-    ShowShareButtons: true
-    ShowPostNavLinks: true
+
 
 
 
@@ -25,6 +24,10 @@ cover:
   ShowReadingTime: false
 
   ShowDate: false
+
+  ShowShareButtons: true
+  
+  ShowPostNavLinks: true
 
 menu:
   main:
