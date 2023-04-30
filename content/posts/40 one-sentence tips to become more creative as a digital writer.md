@@ -1,6 +1,6 @@
 ---
 title: "40 one-sentence tips to become more creative as a digital writer"
-date: 2023-04-30T11:30:03+00:00
+date: 2022-08-24T11:30:03+00:00
 url: creative-tips
 
 

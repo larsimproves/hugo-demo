@@ -1,6 +1,6 @@
 ---
 title: "Start your own personal blog"
-date: 2023-04-29T11:30:03+00:00
+date: 2022-08-19T11:30:03+00:00
 
 
 categories: ["writing"]
