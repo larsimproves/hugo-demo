@@ -3,6 +3,9 @@ title: "About"
 layout: "about"
 url: "/about/"
 summary: about
+
+params:
+    ShowShareButtons: false
 ---
 
 # I started this blog because:
@@ -15,3 +18,4 @@ summary: about
 # Me in 10 seconds
 
 I am a student (business administration), a content marketer for an online Dutch magazine, and a lifelong learner. I spend my time working out, reading books, and creating content.
+
