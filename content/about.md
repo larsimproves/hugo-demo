@@ -2,7 +2,8 @@
 title: "About"
 url: "/about/"
 
-ShowShareButtons: false
+disableShare: true
+
 ---
 
 # I started this blog because:
