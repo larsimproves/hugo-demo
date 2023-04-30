@@ -4,8 +4,7 @@ layout: "about"
 url: "/about/"
 summary: about
 
-params:
-    ShareButtonshidden: true
+ShowShareButtons: false
 ---
 
 # I started this blog because:
