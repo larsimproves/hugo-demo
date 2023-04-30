@@ -8,6 +8,11 @@ ShowHeader: false
 
 ---
 
+<div style="text-align:center;">
+  <img src="/static/img/lars.jpeg" alt="Lars" style="border-radius:50%; max-width:100px;">
+</div>
+
+
 ## I started this blog because:
 
 - Online writing is my mental outlet and brings structure to my life.
