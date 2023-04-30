@@ -11,6 +11,8 @@ params:
     buttons:
       - name: About
         url: "/about/"
+      - name: Now
+        url: "/now/"
   
   ShowShareButtons: true
   
