@@ -7,12 +7,11 @@ url: comfort-zone
 categories: ["personal"]
 
 showToc: true
-TocOpen: true
+TocOpen: false
 draft: false
 
 canonicalURL: "https://canonical.url/to/page"
 UseHugoToc: true
-
 ---
 
 It is so easy to get caught up in your routines.
