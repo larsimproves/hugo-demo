@@ -12,19 +12,6 @@ params:
       - name: About
         url: "/about/"
   
-
-
-
-
-cover:
-  linkFullImages: false
-  
-  ShowBreadCrumbs: false
-
-  ShowReadingTime: false
-
-  ShowDate: false
-
   ShowShareButtons: true
   
   ShowPostNavLinks: true
