@@ -12,6 +12,9 @@ draft: false
 
 canonicalURL: "https://canonical.url/to/page"
 UseHugoToc: true
+
+params:
+    ShowPostNavLinks: true
 ---
 
 Today I turned 22 years old.
