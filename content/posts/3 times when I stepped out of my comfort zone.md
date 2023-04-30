@@ -57,7 +57,7 @@ Without hesitating!
 
 In these moments I felt like the main character of my life:
 
-# 1. Cycled 187 km in one day.
+# 1. Cycled 187 km in one day
 
 It sounded like a ridiculous idea. One of my best friends felt the same way. So we decided to do it, without any training.
 
