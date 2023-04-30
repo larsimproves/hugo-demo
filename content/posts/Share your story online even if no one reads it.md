@@ -1,6 +1,6 @@
 ---
 title: "Share your story online even if no one reads it"
-date: 2023-04-30T11:30:03+00:00
+date: 2022-09-17T11:30:03+00:00
 url: share-your-story
 
 
@@ -11,8 +11,8 @@ TocOpen: false
 draft: false
 
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
+disableHLJS: true 
+ShowShareButtons: true
 disableHLJS: false
 hideSummary: false
 searchHidden: false

@@ -13,7 +13,9 @@ params:
         url: "/about/"
         
 
-
+params:
+    ShowShareButtons: true
+    ShowPostNavLinks: true
 
 
 
