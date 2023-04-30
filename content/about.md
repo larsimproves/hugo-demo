@@ -5,7 +5,7 @@ url: "/about/"
 summary: about
 
 params:
-    ShowShareButtons: false
+    ShareButtonshidden: true
 ---
 
 # I started this blog because:
