@@ -28,7 +28,7 @@ When you step out of your comfort zone you will:
 
 > If you do what you always did, you will get what you always got.
 
-# How to step out of your comfort zone?
+## How to step out of your comfort zone?
 
 If you think: I can't do this...
 
@@ -56,7 +56,7 @@ Without hesitating!
 
 In these moments I felt like the main character of my life:
 
-# 1. Cycled 187 km in one day
+## 1. Cycled 187 km in one day
 
 It sounded like a ridiculous idea. One of my best friends felt the same way. So we decided to do it, without any training.
 
@@ -71,7 +71,7 @@ We learned a lot from it:
 
 To this day, some people don't believe us when we tell the story.
 
-# 2. Jumped off a cliff in Greece
+## 2. Jumped off a cliff in Greece
 
 All the boys had a terrible hangover. We were seasick after a 3-hour boat trip (in the blazing sun). And then arrived at a high cliff (12m).
 
@@ -89,7 +89,7 @@ So, of course, I had to show them how it's done. Once I jumped and was almost fl
 
 Adrenaline level 100%+!
 
-# 3. Sparring for the first time
+## 3. Sparring for the first time
 
 A friend of mine is crazy about martial arts. He tried for a long time to persuade me to come along. I doubted whether kickboxing is even something for me.
 
