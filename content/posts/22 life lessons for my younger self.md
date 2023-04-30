@@ -1,6 +1,6 @@
 ---
 title: "22 life lessons for my younger self"
-date: 2022-01-14T11:30:03+00:00
+date: 2023-01-14T11:30:03+00:00
 url: 22-life-lessons
 
 
