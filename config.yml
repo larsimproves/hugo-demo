@@ -11,9 +11,7 @@ params:
     buttons:
       - name: About
         url: "/about/"
-        
-
-params:
+  
     ShowShareButtons: true
     ShowPostNavLinks: true
 
