@@ -1,5 +1,5 @@
 ---
-title: "40 one-sentence tips to become more creative as a digital writer"
+title: "40 one-sentence tips to become a creative writer"
 date: 2022-08-24T11:30:03+00:00
 url: creative-tips
 
