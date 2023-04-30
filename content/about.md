@@ -4,6 +4,8 @@ url: "/about/"
 
 disableShare: true
 
+hideHeader: true
+
 ---
 
 ## I started this blog because:
