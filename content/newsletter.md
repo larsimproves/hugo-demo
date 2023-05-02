@@ -1,6 +1,6 @@
 ---
-title: "About"
-url: "/about/"
+title: "Newsletter"
+url: "/newsletter/"
 
 disableShare: true
 
