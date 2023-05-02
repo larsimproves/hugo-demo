@@ -11,6 +11,8 @@ params:
     buttons:
       - name: About
         url: "/about/"
+      - name: Contact
+        url: "mailto:hi@larstendolle.com"
 
   
   ShowShareButtons: true
