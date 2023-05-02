@@ -8,7 +8,4 @@ ShowHeader: false
 
 ---
 
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] incomplete
-- [x] completed
+- [x] making a bucketlist
