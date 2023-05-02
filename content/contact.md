@@ -1,6 +1,6 @@
 ---
-title: "About"
-url: "/about/"
+title: "Contact"
+url: "/contact/"
 
 disableShare: true
 
