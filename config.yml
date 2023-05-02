@@ -12,7 +12,7 @@ params:
       - name: About
         url: "/about/"
       - name: Contact
-        url: "mailto:hi@larstendolle.com"
+        url: "/contact/"
 
   
   ShowShareButtons: true
