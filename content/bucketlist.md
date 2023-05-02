@@ -8,7 +8,7 @@ ShowHeader: false
 
 ---
 
-[ ] a task list item
-[ ] list syntax required
-[ ] incomplete
-[x] completed
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] incomplete
+- [x] completed
