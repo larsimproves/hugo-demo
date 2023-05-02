@@ -16,7 +16,7 @@ ShowHeader: false
 
 - Online writing is my mental outlet and brings structure to my life.
 - My thoughts, ideas, and life lessons might inspire/help others.
-- I love to [connect](mailto:hi@larstendolle.com) with like-minded individuals online. 
+- I love to [connect](https://www.larstendolle.com/contact/) with like-minded individuals online. 
 - All the famous nerds I know have their own blog...
 
 ## Me in 10 seconds
