@@ -1,7 +1,7 @@
 ---
 title: "Start your own personal blog"
 date: 2022-08-19T11:30:03+00:00
-
+url: personal-blog
 
 categories: ["writing"]
 
