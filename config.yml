@@ -11,8 +11,11 @@ params:
     buttons:
       - name: About
         url: "/about/"
-      - name: Contact
-        url: "/contact/"
+  
+  socialIcons:
+  - name: "medium"
+    title: "Medium"
+    url: "https://medium.com/@larstendolle"
 
   
   ShowShareButtons: true
