@@ -8,15 +8,10 @@ ShowHeader: false
 
 ---
 
-
-
-
-
 ## I started this blog because:
 
 - Online writing is my mental outlet and brings structure to my life.
 - My thoughts, ideas, and life lessons might inspire/help others.
-- I love to [connect](https://www.larstendolle.com/contact/) with like-minded individuals online. 
 - All the famous nerds I know have their own blog...
 
 ## Me in 10 seconds
