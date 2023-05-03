@@ -11,11 +11,10 @@ params:
     buttons:
       - name: About
         url: "/about/"
+      - name: Medium
+        url: "https://medium.com/@larstendolle"
   
-  socialIcons:
-  - name: "medium"
-    title: "Medium"
-    url: "https://medium.com/@larstendolle"
+
 
   
   ShowShareButtons: true
