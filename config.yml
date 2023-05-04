@@ -13,8 +13,7 @@ params:
         url: "/about/"
       - name: Contact
         url: "/contact"
-      - name: Medium
-        url: "https://medium.com/@larstendolle"
+      
   
 
 
