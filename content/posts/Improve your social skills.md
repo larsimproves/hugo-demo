@@ -8,7 +8,7 @@ categories: ["personal"]
 
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 
 canonicalURL: "https://canonical.url/to/page"
 UseHugoToc: true
