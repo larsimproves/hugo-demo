@@ -7,7 +7,7 @@ categories: ["writing"]
 
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
