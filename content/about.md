@@ -18,7 +18,12 @@ ShowHeader: false
 
 I am a student (business administration), a content marketer for an online Dutch magazine, and a lifelong learner. I spend my time working out, reading books, and creating content.
 
-<div style="display: flex;">
-  <img src="/static/img/lars1.jpg" style="border-radius: 10px; margin-right: 10px;" />
-  <img src="/static/img/lars2.jpg" style="border-radius: 10px;" />
-</div>
+{{< figure src="/img/lars1.jpg" title="Lars 1" >}}
+{{< figure src="/img/lars2.jpg" title="Lars 2" >}}
+
+<style>
+    .figure img {
+        border-radius: 10px;
+    }
+</style>
+
