@@ -18,12 +18,16 @@ ShowHeader: false
 
 I am a student (business administration), a content marketer for an online Dutch magazine, and a lifelong learner. I spend my time working out, reading books, and creating content.
 
-{{< figure src="/img/lars1.jpg" title="Lars 1" >}}
-{{< figure src="/img/lars2.jpg" title="Lars 2" >}}
+<div style="display: flex;">
+    {{< figure src="/img/lars1.jpg" title="" width="300" >}}
+    {{< figure src="/img/lars2.jpg" title="" width="300" >}}
+</div>
 
 <style>
     .figure img {
         border-radius: 10px;
+        max-width: 100%;
     }
 </style>
+
 
