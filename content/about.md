@@ -8,6 +8,8 @@ ShowHeader: false
 
 ---
 
+<img src="/img/lars1.jpg" alt="Lars" style="display:block; margin:auto; border-radius:10px;">
+
 ## I started this blog because:
 
 - Online writing is my mental outlet and brings structure to my life.
