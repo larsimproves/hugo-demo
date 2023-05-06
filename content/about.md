@@ -6,6 +6,9 @@ disableShare: true
 
 ShowHeader: false
 
+cover:
+    image: "img/lars.jpg"
+
 ---
 
 
@@ -14,10 +17,6 @@ ShowHeader: false
 - Online writing is my mental outlet and brings structure to my life.
 - My thoughts, ideas, and life lessons might inspire/help others.
 - All the famous nerds I know have their own blog...
-
-<div style="text-align:center">
-  <img src="static/img/lars.jpg" alt="Lars" width="150" height="150">
-</div>
 
 ## Me in 10 seconds
 
