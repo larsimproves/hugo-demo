@@ -1,6 +1,5 @@
 ---
 title: "You need a weird hobby"
-date: 2023-05-06T11:30:03+00:00
 url: weird-hobby
 
 
