@@ -6,9 +6,6 @@ disableShare: true
 
 ShowHeader: false
 
-cover:
-    image: "img/lars.jpg"
-
 ---
 
 
