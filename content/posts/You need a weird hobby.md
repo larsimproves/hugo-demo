@@ -50,7 +50,7 @@ There are so many things out there you could try, delayed gratification doesn’
 - Design your own website.
 - Brew your own coffee.
 
-Don’t feel obligated to turn your passion into a side hustle. Keep your weird hobby to yourself.
+Don’t feel obligated to [turn your passion into a side hustle](https://www.larstendolle.com/passion-side-hustle/). Keep your weird hobby to yourself.
 
 Or don’t.
 
