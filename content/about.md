@@ -8,7 +8,9 @@ ShowHeader: false
 
 ---
 
-<img src="/img/lars1.jpg" alt="Lars" style="display:block; margin:auto; border-radius:10px;">
+<<div style="text-align:center;">
+  <img src="/img/lars1.jpg" alt="Lars" style="width:50%; border-radius:10px;">
+</div>
 
 ## I started this blog because:
 
