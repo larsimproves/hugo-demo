@@ -16,7 +16,7 @@ UseHugoToc: true
 
 Alex Hormozi (age 33) has built an empire helping gym owners scale their businesses. Besides, he is an investor and he looks for companies worth millions to invest in. That's why his goal is to share as much of his knowledge as possible with you so that he can invest in your company later! That's why the book is for sale for only $1. 
 
-These are the best quotes in his best-selling book; $100M Offers!
+These are the best quotes in his best-selling book; [$100M Offers](https://www.amazon.com/100M-Offers-People-Stupid-Saying/dp/B09BK52JFJ/ref=sr_1_1?crid=3L7UO89C2YI6N&keywords=100m+offers&qid=1683387050&sprefix=100m+offers%2Caps%2C154&sr=8-1)!
 
 1. Make people an offer so good they would feel stupid saying no.
 2. It is far better to have understood why you failed than to be ignorant of why you succeeded.
