@@ -8,9 +8,11 @@ ShowHeader: false
 
 ---
 
-<<div style="text-align:center;">
+<div style="display: flex; justify-content: center;">
   <img src="/img/lars1.jpg" alt="Lars" style="width:50%; border-radius:10px;">
 </div>
+
+
 
 ## I started this blog because:
 
