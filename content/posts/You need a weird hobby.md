@@ -13,8 +13,6 @@ canonicalURL: "https://canonical.url/to/page"
 UseHugoToc: true
 ---
 
-# You need a weird hobby
-
 Trust me when I say that I've had a lot of weird hobbies. 
 
 - I filmed videos for many Youtube channels.
