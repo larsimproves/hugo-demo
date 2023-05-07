@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: "I'm Lars &#x1F44B;"
+    title: "I'm Lars"
     subtitle: "Welcome to my blog!"
     buttons:
       - name: About
@@ -25,14 +25,10 @@ params:
 menu:
   main:
 
-  - identifier: categories
-    name: Categories
-    url: /categories/
-    weight: 10
   - identifier: archives
     name: Archives
     url: /blog/
-    weight: 20
+    weight: 10
   
   
 
