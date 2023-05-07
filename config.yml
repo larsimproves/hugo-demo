@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: "I'm Lars"
+    title: "I'm Lars &#x1F44B;"
     subtitle: "Welcome to my blog!"
     buttons:
       - name: About
