@@ -11,8 +11,11 @@ params:
     buttons:
       - name: About
         url: "/about/"
+      - name: Blog
+        url: "/blog/"
       - name: Contact
         url: "/contact"
+      
       
   
 
@@ -22,13 +25,6 @@ params:
   
   ShowPostNavLinks: false
 
-menu:
-  main:
-
-  - identifier: archives
-    name: Archives
-    url: /blog/
-    weight: 10
   
   
 
