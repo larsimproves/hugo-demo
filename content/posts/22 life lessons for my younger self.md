@@ -4,8 +4,6 @@ date: 2023-01-14T11:30:03+00:00
 url: 22-life-lessons
 
 
-categories: ["personal"]
-
 showToc: true
 TocOpen: false
 draft: false

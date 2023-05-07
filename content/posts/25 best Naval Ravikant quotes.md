@@ -4,7 +4,6 @@ date: 2023-04-23T00:00:00+00:00
 url: Naval-Ravikant-quotes
 
 
-categories: ["quotes"]
 
 showToc: true
 TocOpen: false

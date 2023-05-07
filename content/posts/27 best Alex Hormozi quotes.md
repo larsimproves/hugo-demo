@@ -4,7 +4,6 @@ date: 2023-04-15T00:00:00+00:00
 url: Alex-Hormozi-quotes
 
 
-categories: ["quotes"]
 
 showToc: true
 TocOpen: false

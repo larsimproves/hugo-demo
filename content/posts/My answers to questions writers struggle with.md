@@ -3,9 +3,6 @@ title: "My answers to questions writers struggle with"
 date: 2022-08-14T11:30:03+00:00
 url: writers-questions
 
-
-categories: ["writing"]
-
 showToc: true
 TocOpen: false
 draft: false

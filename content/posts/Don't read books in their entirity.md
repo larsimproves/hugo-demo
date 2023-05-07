@@ -3,9 +3,6 @@ title: "Don't read books in their entirety"
 date: 2023-04-26T11:30:03+00:00
 url: books-entirety
 
-
-categories: ["personal"]
-
 showToc: true
 TocOpen: false
 draft: false

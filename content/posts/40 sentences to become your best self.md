@@ -4,7 +4,6 @@ date: 2022-10-23T11:30:03+00:00
 url: sentences-best-self
 
 
-categories: ["personal"]
 
 showToc: true
 TocOpen: false

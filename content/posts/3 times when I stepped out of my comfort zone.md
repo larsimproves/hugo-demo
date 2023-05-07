@@ -4,8 +4,6 @@ date: 2023-01-22T11:30:03+00:00
 url: comfort-zone
 
 
-categories: ["personal"]
-
 showToc: true
 TocOpen: false
 draft: false

@@ -3,9 +3,6 @@ title: "How to tell interesting stories"
 date: 2023-05-05T00:00:00+00:00
 url: interesting-stories
 
-
-categories: ["personal"]
-
 showToc: true
 TocOpen: false
 draft: false

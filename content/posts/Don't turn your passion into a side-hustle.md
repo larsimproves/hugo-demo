@@ -3,9 +3,6 @@ title: "Don't turn your passion into a side-hustle"
 date: 2023-04-09T11:30:03+00:00
 url: passion-side-hustle
 
-
-categories: ["personal"]
-
 showToc: true
 TocOpen: false
 draft: false

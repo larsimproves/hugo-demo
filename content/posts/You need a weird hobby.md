@@ -3,9 +3,6 @@ title: "You need a weird hobby"
 date: 2023-05-06T00:00:00+00:00
 url: weird-hobby
 
-
-categories: ["personal"]
-
 showToc: true
 TocOpen: false
 draft: false

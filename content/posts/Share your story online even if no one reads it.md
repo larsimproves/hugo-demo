@@ -3,9 +3,6 @@ title: "Share your story online even if no one reads it"
 date: 2022-09-17T11:30:03+00:00
 url: share-your-story
 
-
-categories: ["writing"]
-
 showToc: true
 TocOpen: false
 draft: false

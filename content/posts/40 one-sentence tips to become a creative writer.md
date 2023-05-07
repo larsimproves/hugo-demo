@@ -4,7 +4,6 @@ date: 2022-08-24T11:30:03+00:00
 url: creative-tips
 
 
-categories: ["writing"]
 
 showToc: true
 TocOpen: false

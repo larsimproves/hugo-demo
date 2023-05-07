@@ -3,9 +3,6 @@ title: "Improve your social skills"
 date: 2023-04-02T11:30:03+00:00
 url: social-skills
 
-
-categories: ["personal"]
-
 showToc: true
 TocOpen: false
 draft: false
