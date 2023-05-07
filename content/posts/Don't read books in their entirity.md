@@ -32,4 +32,6 @@ Your time on this earth is limited. When you decide to read all your books in th
 
 Don't make the same mistake I used to.
 
-Right now, I buy my books in the Kindle store (about $3 each). These ebooks are way cheaper. That way, the threshold to invest in books is way lower. Also, taking digital notes and storing them is super easy!
+Right now, I buy most of my books in the Kindle store (about $3 each). These ebooks are way cheaper. That way, the threshold to invest in books is way lower. Also, taking digital notes and storing them is super easy!
+
+Still, nothing can beat the look and feel of a paper book.
