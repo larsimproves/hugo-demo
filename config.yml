@@ -24,8 +24,6 @@ params:
   
   ShowPostNavLinks: false
 
-  
-  
-
+  ShowBreadCrumbs: true
 
 
