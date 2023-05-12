@@ -15,7 +15,7 @@ params:
         url: "/blog/"
 
         
-  ShowPostNavLinks: false
+  ShowPostNavLinks: true
 
 params:
     ShowBreadCrumbs: true
