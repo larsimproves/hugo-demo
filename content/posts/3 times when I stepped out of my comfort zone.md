@@ -10,6 +10,7 @@ draft: false
 
 canonicalURL: "https://canonical.url/to/page"
 UseHugoToc: true
+hideDate: true
 ---
 
 It is so easy to get caught up in your routines.
