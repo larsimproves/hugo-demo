@@ -14,8 +14,3 @@ params:
       - name: Blog
         url: "/blog/"
 
-        
-  ShowPostNavLinks: true
-
-params:
-    ShowBreadCrumbs: true
