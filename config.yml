@@ -20,7 +20,7 @@ params:
 
 
   
-  ShowShareButtons: true
+  ShowShareButtons: false
   
   ShowPostNavLinks: false
 
