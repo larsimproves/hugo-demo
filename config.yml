@@ -13,8 +13,7 @@ params:
         url: "/about/"
       - name: Blog
         url: "/blog/"
-      - name: Contact
-        url: "/contact"
+
       
       
   
