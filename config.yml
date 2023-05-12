@@ -4,15 +4,11 @@ title: Lars ten Dolle
 theme: PaperMod
 
 params:
-  profileMode:
-    enabled: true
-    title: "I'm Lars! &#x1F44B;"
-    subtitle: "Welcome to my blog!"
-    buttons:
-      - name: About
-        url: "/about/"
-      - name: Blog
-        url: "/blog/"
+    homeInfoParams:
+        Title: "I'm Lars! &#x1F44B;"
+        Content: "Welcome to my blog!"
+
+
 
       
       
@@ -23,7 +19,4 @@ params:
   ShowShareButtons: true
   
   ShowPostNavLinks: false
-
-  ShowBreadCrumbs: true
-
 
