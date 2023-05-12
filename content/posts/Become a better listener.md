@@ -1,6 +1,6 @@
 ---
 title: "Become a better listener"
-date: 2023-05-12T11:30:00+00:00
+date: 2023-05-12T11:00:00+00:00
 url: listener
 
 
