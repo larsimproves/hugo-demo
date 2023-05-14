@@ -9,8 +9,6 @@ ShowHeader: false
 
 ---
 
-{{< image-gallery gallery_dir="album" >}}
-
 ## I started this blog because:
 
 - Online writing is my mental outlet and brings structure to my life.
