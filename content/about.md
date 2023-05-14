@@ -20,4 +20,4 @@ ShowHeader: false
 
 I am a student, a content marketer for an online Dutch magazine, and a lifelong learner. I spend my time overthinking, working out, reading, and writing online.
 
-{{ partial "image-gallery" (dict "context" . "gallery_dir" "album") }}
+{{< image-gallery gallery_dir="album" >}}
