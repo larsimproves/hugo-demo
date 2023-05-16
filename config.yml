@@ -22,7 +22,7 @@ outputs:
         - RSS
         - JSON
 
-params:
+  params:
     fuseOpts:
         isCaseSensitive: false
         shouldSort: true
