@@ -1,9 +1,9 @@
 ---
-title: "Search" 
+title: "" 
 layout: "search" 
 # url: "/search/"
 # description: "Description for Search"
 summary: "search"
-placeholder: "placeholder text in search input box"
+placeholder: "What are you looking for?"
 ---
 
