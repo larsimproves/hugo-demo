@@ -13,6 +13,8 @@ params:
         url: "/about/"
       - name: Blog
         url: "/blog/"
+      - name: Search
+        url: "/search/"
 
 outputs:
     home:
