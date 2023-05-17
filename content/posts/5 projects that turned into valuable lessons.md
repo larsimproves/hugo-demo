@@ -119,8 +119,7 @@ A great learning experience.
 
 ### I learned:
 
-Putting the episodes on Apple Podcast
-
+- Putting the episodes on Apple Podcast
 - Engaging an audience via stories
 - Reaching out to potential guests
 - Setting up a microphone
@@ -149,7 +148,6 @@ You do need a fast computer.
 ### I learned:
 
 - Transforming a model into animation
-
 - Creating 3D mock-ups of a person
 - Exporting 3D objects to JPEG
 - [Downloading Blender](https://www.blender.org/) for free
