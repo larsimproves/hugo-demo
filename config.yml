@@ -7,7 +7,7 @@ params:
   profileMode:
     enabled: true
     title: "I'm Lars! &#x1F44B;"
-    subtitle: "Welcome to my blog!"
+    subtitle: 
     buttons:
       - name: About
         url: "/about/"
