@@ -15,6 +15,8 @@ params:
         url: "/blog/"
       - name: Search
         url: "/search/"
+      - name: Become a better writer!
+        url: "/categories/writing/"
   fuseOpts:
       isCaseSensitive: false
       shouldSort: true
