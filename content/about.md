@@ -18,3 +18,5 @@ ShowHeader: false
 ## Me in 10 seconds
 
 I am a student, a content marketer for an online Dutch magazine, and a lifelong learner. I spend my time overthinking, working out, reading, and writing online.
+
+> My blog captures fleeting moments as my thoughts constantly evolve.
